@@ -16,7 +16,7 @@ public class Main {
             new Aluno("Nicolle", 70),
             new Aluno("Luana", 80),
             new Aluno("Guilherme", 76),
-            new Aluno("Whendell", 90)
+            new Aluno("Whendell", 90),
         };
 
         System.out.println("Alunos com mais de 60 horas concluídas:");
